@@ -1,0 +1,40 @@
+*{
+  
+  margin: 0;
+  text-size-adjust: 2px;
+
+}
+
+h1{
+  color: rgb(15, 13, 13);
+}
+
+header{
+  background: antiquewhite; 
+ 
+}
+
+
+.topnav{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items:flex-end;
+  gap: 10px;
+} 
+.footer{
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10;
+  background-color: antiquewhite
+  
+
+}
+.section{
+  background-color: rgb(252, 243, 231);
+}
+.poke{
+  color: #f64b4b;
+}
